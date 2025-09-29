@@ -1,1 +1,1 @@
-# people-analytics
+# ConnectSphere
