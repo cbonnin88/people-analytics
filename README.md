@@ -1,3 +1,6 @@
+
+<img width="600" height="600" alt="ConnectSphere" src="https://github.com/user-attachments/assets/dd3f9f1b-53b2-47d9-a296-d3bfbb6360d6" />
+
 # 🏢 Enhancing Talent Strategy at "ConnectSphere"
 ConnectSphere is a mid-sized technology company with offices in Paris, London, and Copenhagen. The company is facing two critical challenges: a recent increase in employee attrition and an inconsistent, often biased, process for determining salaries for new hires.
 
